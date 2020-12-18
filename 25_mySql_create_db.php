@@ -16,7 +16,7 @@ else{
 }
 
 // Create a db
-$sql = "CREATE DATABASE dbHarrbitcheeeeeey";
+$sql = "CREATE DATABASE dbSiddhant";
 $result = mysqli_query($conn, $sql);
 
 // Check for the database creation success
